@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Non-Parametric Calibration for Classification"
-authors: []
+authors: ["admin", "Rudolph Triebel", "Hedvig Kjellström"]
 date: 2019-06-12T16:44:42+02:00
 doi: ""
 
