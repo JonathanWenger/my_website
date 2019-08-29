@@ -77,6 +77,6 @@ email: ""
 
 I am a graduate student in computer science at Universität Tübingen and the MPI for Intelligent Systems working with [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research interests include [**probabilistic numerics**](http://probabilistic-numerics.org/), **uncertainty estimation** in classification and **non-parametric clustering** of transcriptomic time-series.
 
-During my master's degree I studied for a year abroad in Stockholm, Sweden. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute.
+During my double master's degree I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TU München and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH in Stockholm. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute.
 
 In my free time I love to do sports, especially road cycling.
