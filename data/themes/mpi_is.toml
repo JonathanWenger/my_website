@@ -1,0 +1,20 @@
+# Theme metadata
+name = "MPI_IS"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#006f62"
+primary_light = "#6ec6ff"
+primary_dark = "#555555"
+
+# Menu
+menu_primary = "#006f62"
+menu_text = "#fefefe"#"#34495e"
+menu_text_active = "#272727"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#f1f0ec"
