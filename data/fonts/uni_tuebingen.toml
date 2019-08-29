@@ -1,0 +1,16 @@
+# Font style metadata
+name = "Uni_tuebingen"
+
+# Optional Google font URL
+google_fonts = "Open Sans:400,700|Open Sans:400,400italic,700|Open Sans+Mono"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "16"
+

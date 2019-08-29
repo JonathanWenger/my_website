@@ -1,0 +1,16 @@
+# Font style metadata
+name = "Mpi_is"
+
+# Optional Google font URL
+google_fonts = "Helvetica:400,700|Helvetica:400,400italic,700|Helvetica+Mono"
+
+# Font families
+heading_font = "Helvetica"
+body_font = "Helvetica"
+nav_font = "Helvetica"
+mono_font = "Helvetica Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "16"
+

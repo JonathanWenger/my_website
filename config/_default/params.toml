@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "custom"
+font = "uni_tuebingen"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
