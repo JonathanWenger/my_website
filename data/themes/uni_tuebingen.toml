@@ -5,16 +5,16 @@ name = "Uni_tuebingen"
 light = true
 
 # Primary
-primary = "#006f62"
-primary_light = "#6ec6ff"
-primary_dark = "#555555"
+primary = "#a51e37" #links
+primary_light = "#a51e37"
+primary_dark = "#32414b"
 
 # Menu
-menu_primary = "#006f62"
-menu_text = "#fefefe"#"#34495e"
-menu_text_active = "#272727"
-menu_title = "#2b2b2b"
+menu_primary = "#a51e37"
+menu_text = "#f2f2f2"
+menu_text_active = "#b4a069"
+menu_title = "#f2f2f2"
 
 # Home sections
 home_section_odd = "#ffffff"
-home_section_even = "#f1f0ec"
+home_section_even = "#f2f2f2"
