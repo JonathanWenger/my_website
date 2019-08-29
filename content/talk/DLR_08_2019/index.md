@@ -4,7 +4,7 @@
 title: "Non-Parametric Calibration for Classification"
 event:
 event_url:
-location: Deutsches Zentrum für Luft- und Raumfahrt, Oberpfaffenhofen
+location: Deutsches Zentrum für Luft- und Raumfahrt (DLR), Oberpfaffenhofen
 summary:
 abstract:
 
