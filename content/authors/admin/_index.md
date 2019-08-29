@@ -16,6 +16,8 @@ role: Graduate Student in Computer Science
 organizations:
 - name: Universität Tübingen
   url: "https://uni-tuebingen.de/"
+- name: Max Planck Institute for Intelligent Systems
+  url: "https://www.is.mpg.de/de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include probabilistic numerics, uncertainty estimation in classification and Gaussian processes.
@@ -28,7 +30,7 @@ interests:
 education:
   courses:
   - course: Doctoral Degree in Computer Science
-    institution: Universität Tübingen
+    institution: Universität Tübingen, MPI for Intelligent Systems
     year:
   - course: MSc in Engineering Physics
     institution: Kungliga Tekniska högskolan
@@ -73,6 +75,6 @@ email: ""
 #- Visitors
 ---
 
-I am a graduate student in computer science at [Universität Tübingen](https://uni-tuebingen.de/) and the [MPI for Intelligent Systems](https://www.is.mpg.de/de) working with [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/). My research interests include [probabilistic numerics](http://probabilistic-numerics.org/), uncertainty estimation in classification and non-parametric clustering of transcriptomic time-series.
+I am a graduate student in computer science at Universität Tübingen and the MPI for Intelligent Systems working with [Prof. Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/). My research interests include [probabilistic numerics](http://probabilistic-numerics.org/), uncertainty estimation in classification and non-parametric clustering of transcriptomic time-series.
 
 In my free time I love to do sports, especially road cycling.
