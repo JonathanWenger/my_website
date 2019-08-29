@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Academic"
@@ -18,11 +18,11 @@ hero_media = "hero-academic.png"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -38,7 +38,7 @@ hero_media = "hero-academic.png"
   label = "Get Started"
   icon_pack = "fas"
   icon = "download"
-  
+
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
   label = "View Documentation"
