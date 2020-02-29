@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Non-Parametric Calibration for Classification"
-authors: ["admin", "Rudolph Triebel", "Hedvig Kjellström"]
+authors: ["admin", "Hedvig Kjellström", "Rudolph Triebel"]
 date: 2019-06-12T16:44:42+02:00
 doi: ""
 
@@ -13,18 +13,18 @@ publishDate: 2019-08-29T06:11:48+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: ""
+publication: "Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)"
+publication_short: "AISTATS 2020"
 
-abstract: "Many applications for classification methods not only require high accuracy but also reliable estimation of predictive uncertainty. However, while many current classification frameworks, in particular deep neural network architectures, provide very good results in terms of accuracy, they tend to underestimate their predictive uncertainty. In this paper, we propose a method that corrects the confidence output of a general classifier such that it approaches the true probability of classifying correctly. This classifier calibration is, in contrast to existing approaches, based on a non-parametric representation using a latent Gaussian process and specifically designed for multi-class classification. It can be applied to any classification method that outputs confidence estimates and is not limited to neural networks. We also provide a theoretical analysis regarding the over- and underconfidence of a classifier and its relationship to calibration. In experiments we show the universally strong performance of our method across different classifiers and benchmark data sets in contrast to existing classifier calibration techniques."
+abstract: "Many applications of classification methods not only require high accuracy but also reliable estimation of predictive uncertainty. However, while many current classification frameworks, in particular deep neural networks, achieve high accuracy, they tend to incorrectly estimate uncertainty. In this paper, we propose a method that adjusts the confidence estimates of a general classifier such that they approach the probability of classifying correctly. In contrast to existing approaches, our calibration method employs a non-parametric representation using a latent Gaussian process, and is specifically designed for multi-class classification. It can be applied to any classifier that outputs confidence estimates and is not limited to neural networks. We also provide a theoretical analysis regarding the over- and underconfidence of a classifier and its relationship to calibration, as well as an empirical outlook for calibrated active learning. In experiments we show the universally strong performance of our method across different classifiers and benchmark data sets, in particular for state-of-the art neural network architectures."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["gaussian-processes", "non-parametric", "classification"]
+tags: ["calibration", "non-parametric", "gaussian processes", "classification"]
 categories: []
 featured: true
 

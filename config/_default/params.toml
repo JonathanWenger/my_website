@@ -58,7 +58,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "j.wenger@tum.de"
+email = "jonathan.wenger@uni-tuebingen.de"
 phone = ""
 address = "Maria von Linden Str. 6<br>Universität Tübingen<br>72076 Tübingen<br>Germany"
 
