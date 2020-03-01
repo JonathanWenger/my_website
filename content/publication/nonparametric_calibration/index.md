@@ -41,7 +41,7 @@ url_code: https://github.com/JonathanWenger/pycalib
 # url_dataset:
 # url_poster:
 # url_project:
-url_slides: nonparametric_calibration_talk.pdf
+# url_slides: nonparametric_calibration_talk.pdf
 # url_source:
 # url_video:
 
