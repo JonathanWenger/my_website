@@ -60,7 +60,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jonathan.wenger@uni-tuebingen.de"
 phone = ""
-address = "Maria von Linden Str. 6<br>Universität Tübingen<br>72076 Tübingen<br>Germany"
+address = "Maria-von-Linden-Str. 6<br>Universität Tübingen<br>72076 Tübingen<br>Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -106,7 +106,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+plugins_css = ["custom"]
 plugins_js  = []
 
 ############################
