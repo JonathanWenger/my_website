@@ -50,9 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JonathanWenger5
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=de&authuser=1&user=nvffZvIAAAAJ
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/cs?searchtype=author&query=Wenger%2C+J
