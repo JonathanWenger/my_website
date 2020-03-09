@@ -20,7 +20,7 @@ organizations:
   url: "https://www.is.mpg.de/de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include probabilistic numerics, uncertainty estimation in classification and Gaussian processes.
+bio: My research interests include probabilistic numerics, uncertainty estimation and non-parametric methods.
 
 interests:
 - Probabilistic Numerics
@@ -79,7 +79,7 @@ email: ""
 #- Visitors
 ---
 
-I am a graduate student in computer science at the University of Tübingen and the MPI for Intelligent Systems advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focusses on [**probabilistic numerics**](http://probabilistic-numerics.org/) which aims to quantify uncertainty induced by finite computation by interpreting numerical methods as inference problems.
+I am a graduate student in computer science at the University of Tübingen and the MPI for Intelligent Systems advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focuses on [**probabilistic numerics**](http://probabilistic-numerics.org/) which aims to quantify uncertainty induced by finite computation by interpreting numerical methods as inference problems.
 
 During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TUM and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH on probability calibration. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute developing clustering approaches to transcriptomic time-series.
 

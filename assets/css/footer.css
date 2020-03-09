@@ -1,0 +1,77 @@
+/*  FOOTER BAR  */
+
+footer {
+  background-color: #a51e37; /* primary_light color */
+  /* Fixing academic.css line 979  */
+  margin: 64px 0 0;
+  padding: 32px 0;
+}
+
+#botbar1{
+  /*background-color: #32414b;*/
+  background-color: #b4a069;
+
+  width: 100%;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: -100px;
+  z-index: 9;
+  height: 7px;
+}
+
+/* Kludge for overscrolling */
+/* Color the background */
+body{
+  background-color: #a51e37; /* primary_light color */
+}
+
+#THECONTENT{
+  background-color: #a51e37; /* primary_light color */
+}
+
+
+/* FOOTER  */
+
+footer {
+  /* margin: 4rem 0 0;
+  padding: 2rem 0; */
+  width: 100%;
+}
+
+footer p {
+  /* font-size: 0.75rem; */
+  text-align: left;
+}
+
+.site-footer,
+footer a#back_to_top i {
+  color: #f2f2f2; /* menu_text color */
+}
+
+footer a:link {
+  color: #b4a069; /* menu_text_active color*/
+}
+
+footer .powered-by {
+  margin-top: 1rem;
+}
+
+/*  FOOTER 3 Column  */
+
+#footer-columns{
+  padding-top: 35px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: .75rem;
+  font-family:Lato;
+}
+
+#footer-col-1{
+  padding-bottom: 25px;
+}
+
+#footer-columns img{
+  max-width: 200px;
+  opacity: .5;
+}
