@@ -5,7 +5,7 @@ title: "Tutorial: Probabilistic Machine Learning SS2020"
 location:
 summary:
 authors: [admin]
-date: 2020-04-15
+date: 2020-04-01
 tags: []
 
 # Optional external URL for project (replaces project detail page).

@@ -23,9 +23,9 @@ organizations:
 bio: My research interests include probabilistic numerics, uncertainty estimation in classification and Gaussian processes.
 
 interests:
-- Probabilistic numerics
-- Uncertainty estimation
-- Non-parametric statistics
+- Probabilistic Numerics
+- Uncertainty Estimation
+- Non-parametric Statistics
 
 education:
   courses:
