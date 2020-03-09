@@ -5,6 +5,7 @@ title: "Tutorial: Data Literacy WS2019/20"
 location:
 summary:
 authors: [admin]
+date: 2020-04-15
 tags: []
 
 # Optional external URL for project (replaces project detail page).
