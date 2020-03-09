@@ -64,7 +64,18 @@
       </div>
       {{ end }}
 
-      {{ if and $show_authors_only $item.Params.authors }}
+      {{ if eq $item.Type "publication"}}
+        <span itemprop="author" class="article-metadata li-cite-author">
+          {{ partial "page_metadata_authors" . }}
+        </span>
+        ({{- .Date.Format "2006" -}}).
+        <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>.
+        {{ if .Params.publication_short }}
+        {{- .Params.publication_short | markdownify -}}.
+        {{ else if .Params.publication }}
+        {{- .Params.publication | markdownify -}}.
+        {{ end }}
+      {{ else if and $show_authors_only $item.Params.authors }}
       <div itemprop="author">
         {{ partial "page_metadata_authors" $item }}
       </div>
