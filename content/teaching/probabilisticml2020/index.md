@@ -2,26 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tutorial: Probabilistic Machine Learning SS2020"
-event:
-event_url:
 location:
 summary:
-abstract:
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: summer term 2020
-# date_end: 2019-08-29T16:32:09+02:00
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-08-26T16:32:09+02:00
-
 authors: [admin]
 tags: []
 
-# Is this a featured talk? (true/false)
-featured: false
+# Optional external URL for project (replaces project detail page).
+external_link: "https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&_flowExecutionKey=e1s8"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

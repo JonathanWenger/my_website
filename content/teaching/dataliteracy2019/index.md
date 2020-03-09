@@ -2,26 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tutorial: Data Literacy WS2019/20"
-event:
-event_url:
 location:
 summary:
-abstract:
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: winter term 2019/2020
-# date_end: 2019-08-29T16:32:09+02:00
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-08-26T16:32:09+02:00
-
 authors: [admin]
 tags: []
 
-# Is this a featured talk? (true/false)
-featured: false
+# Optional external URL for project (replaces project detail page).
+external_link: "https://campus.verwaltung.uni-tuebingen.de/lsfpublic/rds?state=verpublish&status=init&vmfile=no&publishid=192929&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

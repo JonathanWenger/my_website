@@ -30,10 +30,10 @@ interests:
 education:
   courses:
   - course: Doctoral Degree in Computer Science
-    institution: Universität Tübingen, MPI for Intelligent Systems
+    institution: University of Tübingen, MPI for Intelligent Systems
     year:
   - course: MSc in Engineering Physics
-    institution: Kungliga Tekniska högskolan
+    institution: KTH Royal Institute of Technology
     year: 2019
   - course: MSc in Mathematics
     institution: TU München
@@ -75,8 +75,8 @@ email: ""
 #- Visitors
 ---
 
-I am a graduate student in computer science at Universität Tübingen and the MPI for Intelligent Systems working with [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research interests include [**probabilistic numerics**](http://probabilistic-numerics.org/), **uncertainty estimation** in classification and **non-parametric clustering** of transcriptomic time-series.
+I am a graduate student in computer science at the University of Tübingen and the MPI for Intelligent Systems advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focusses on [**probabilistic numerics**](http://probabilistic-numerics.org/) which aims to quantify uncertainty induced by finite computation by interpreting numerical methods as inference problems.
 
-During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TU München and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH in Stockholm. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute.
+During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TUM and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH on probability calibration. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute developing clustering approaches to transcriptomic time-series.
 
 In my free time I love to do sports, in particular any kind of cycling.
