@@ -12,14 +12,14 @@
       <div class="row" id="footer-columns">
         <!-- column 1 -->
         <div class="col-sm-4" id="footer-col-1">
-          <!-- <img src="{{ $.Site.BaseURL }}img/{{ $.Site.Params.unilogo }}"> -->
+          <!-- <img src="{{ $.Site.BaseURL }}/img/{{ $.Site.Params.unilogo }}"> -->
           {{ with site.Params.footertext }}
             {{ . | markdownify | emojify }}
           {{ end }}
         </div>
         <!-- column 2 -->
         <div class="col-sm-4" id="footer-col-2">
-          <img src="{{ $.Site.BaseURL }}img/{{ $.Site.Params.personallogo }}">
+          <img src="{{ $.Site.BaseURL }}/img/{{ $.Site.Params.personallogo }}">
         </div>
         <!-- column 3 -->
         <div class="col-sm-4" id="footer-col-3">
