@@ -43,14 +43,17 @@ footer {
 
 /* Kludge for overscrolling */
 /* Color the background */
-body{
+body {
   background-color: var(--primary_light);
 }
 
-#THECONTENT{
-  background-color: var(--primary_light);
+/* Fix background color for pages (publications, posts, talks, ...) */
+div.pub {
+  background-color: var(--home_section_odd);
 }
-
+article {
+  background-color: var(--home_section_odd);
+}
 
 /* FOOTER  */
 
@@ -89,7 +92,7 @@ footer a:visited {
 }
 
 #footer-columns img{
-  max-width: 200px;
+  max-width: 125px;
   opacity: .5;
   padding-top: 5px;
   padding-bottom: 5px;

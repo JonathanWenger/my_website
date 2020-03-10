@@ -2,9 +2,9 @@
 
 This is my website built using the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io). Customizations are inspired by [Flip Tanedo's site](https://github.com/fliptanedo/academic-flip).
 
-## [Academic Kickstart](https://sourcethemes.com/academic/)
+## Academic Kickstart
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+[Academic](https://sourcethemes.com/academic/) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
 **Academic Kickstart** provides a minimal template to kickstart your new website.
 
@@ -13,14 +13,6 @@ This is my website built using the [Academic theme](https://sourcethemes.com/aca
 - [Ask a question](http://discuss.gohugo.io/)
 - [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
 - Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
-
 
 ### Ecosystem
 

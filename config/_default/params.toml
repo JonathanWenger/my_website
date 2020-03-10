@@ -103,7 +103,7 @@ map = 2
 map_api_key = ""
 latitude = "48.539027"
 longitude = "9.055722"
-zoom = 15
+zoom = 14
 
 ###########################
 ## Footer                ##

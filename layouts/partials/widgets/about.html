@@ -94,7 +94,11 @@
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+            {{ if .logo }}
+            <img src="{{ $.Site.BaseURL }}/img/{{ .logo }}" style="height:1rem; float: left; vertical-align: bottom; padding-right: 10px;">
+            {{ else }}
+            <i class="fa-li fa fa-graduation-cap"></i>
+            {{ end }}
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
