@@ -32,15 +32,15 @@ education:
   - course: Doctoral Degree in Computer Science
     institution: University of Tübingen, MPI for Intelligent Systems
     year:
-#    logo: "institution_logos/uni_tuebingen_logo.png"
+    logo: "institution_logos/uni_tuebingen_logo.png"
   - course: MSc in Engineering Physics
     institution: KTH Royal Institute of Technology
     year: 2019
-#    logo: "institution_logos/kth_logo.png"
+    logo: "institution_logos/kth_logo.png"
   - course: MSc in Mathematics
     institution: TU München
     year: 2019
-#    logo: "institution_logos/tum_logo.png"
+    logo: "institution_logos/tum_logo.png"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
