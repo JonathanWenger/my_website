@@ -95,7 +95,9 @@
           {{ range .courses }}
           <li>
             {{ if .logo }}
-            <img src="{{ $.Site.BaseURL }}/img/{{ .logo }}" style="height:1rem; float: left; vertical-align: bottom; padding-right: 10px;">
+            <div class="square" style="float:left; height:2.5rem; width:2.5rem; padding-right: 10px;">
+              <img src="{{ $.Site.BaseURL }}/img/{{ .logo }}" style="max-height:2.5rem; padding-top:0.5rem; display:block; margin:auto;">
+            </div>
             {{ else }}
             <i class="fa-li fa fa-graduation-cap"></i>
             {{ end }}

@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: Doctoral Degree in Computer Science
-    institution: University of Tübingen, MPI for Intelligent Systems
+    institution: University of Tübingen, IMPRS-IS fellow
     year:
     logo: "institution_logos/uni_tuebingen_logo.png"
   - course: MSc in Engineering Physics

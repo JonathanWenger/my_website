@@ -35,3 +35,9 @@ section#about.home-section.wg-about {
 section#talks.home-section.wg-pages {
 	background-image: url(../img/backgrounds/whiteboard.png);
 }
+
+
+/* Education List */
+.ul-edu.fa-ul {
+	margin-left: .5em;
+}
