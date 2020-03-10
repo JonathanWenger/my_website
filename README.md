@@ -1,4 +1,8 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# Jonathan's Website
+
+This is my website built using the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io). Customizations are inspired by [Flip Tanedo's site](https://github.com/fliptanedo/academic-flip).
+
+## [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
@@ -17,23 +21,13 @@
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Install
 
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
+### Ecosystem
 
 * **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
 * **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
-## License
+### License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
 
