@@ -1,15 +1,36 @@
+/* Color variables: match color_theme in params.toml and /data/themes */
+
+:root{
+  /* Primary */
+  --primary : #a51e37;
+  --primary_light : #a51e37;
+  --primary_dark : #32414b;
+
+  /* Menu */
+  --menu_primary : #a51e37;
+  --menu_text : #f2f2f2;
+  --menu_text_active : #b4a069;
+  --menu_title : #f2f2f2;
+
+  /* Footer */
+  --footer_text : #ffffffa1;
+
+  /* Home sections */
+  --home_section_odd : #ffffff;
+  --home_section_even : #f2f2f2;
+}
+
 /*  FOOTER BAR  */
 
 footer {
-  background-color: #a51e37; /* primary_light color */
+  background-color: var(--primary_light);
   /* Fixing academic.css line 979  */
   margin: 64px 0 0;
   padding: 32px 0;
 }
 
 #botbar1{
-  /*background-color: #32414b;*/
-  background-color: #b4a069;
+  background-color: var(--menu_text_active);
 
   width: 100%;
   position: relative;
@@ -23,11 +44,11 @@ footer {
 /* Kludge for overscrolling */
 /* Color the background */
 body{
-  background-color: #a51e37; /* primary_light color */
+  background-color: var(--primary_light);
 }
 
 #THECONTENT{
-  background-color: #a51e37; /* primary_light color */
+  background-color: var(--primary_light);
 }
 
 
@@ -46,32 +67,33 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-  color: #f2f2f2; /* menu_text color */
+  color: var(--footer_text);
 }
 
 footer a:link {
-  color: #b4a069; /* menu_text_active color*/
+  color: var(--menu_text_active);
 }
-
-footer .powered-by {
-  margin-top: 1rem;
+footer a:visited {
+  color: var(--menu_text_active);
 }
 
 /*  FOOTER 3 Column  */
 
 #footer-columns{
-  padding-top: 35px;
+  margin-top: 0rem;
+  padding-top: 15px;
   margin-right: 20px;
   margin-left: 20px;
   font-size: .75rem;
-  font-family:Lato;
-}
-
-#footer-col-1{
   padding-bottom: 25px;
 }
 
 #footer-columns img{
-  max-width: 200px;
+  max-width: 250px;
   opacity: .5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }

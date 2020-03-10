@@ -5,9 +5,55 @@
     <div id="gpfoot" style="background-image:url('{{ .Site.BaseURL }}/img/{{ .Site.Params.footmark }}');"></div>
   </div>
   <div style="height: 20px">
-    <!-- JUST A SPACER -->
 </div>
 
+  <div class="container">
+<!-- Three column footer-->
+      <div class="row" id="footer-columns">
+        <!-- column 1 -->
+        <div class="col-sm-4" id="footer-col-1">
+          <!-- <img src="{{ $.Site.BaseURL }}img/{{ $.Site.Params.unilogo }}"> -->
+          {{ with site.Params.footertext }}
+            {{ . | markdownify | emojify }}
+          {{ end }}
+        </div>
+        <!-- column 2 -->
+        <div class="col-sm-4" id="footer-col-2">
+          <img src="{{ $.Site.BaseURL }}img/{{ $.Site.Params.personallogo }}">
+        </div>
+        <!-- column 3 -->
+        <div class="col-sm-4" id="footer-col-3">
+          All opinions expressed here are my own and do not necessarily represent those of any affiliated agencies or groups.
+
+          {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} Jonathan Wenger &middot; {{ end }}
+
+          Hosted on
+          <a href="https://github.com/JonathanWenger/my_website" target="_blank" rel="noopener">GitHub</a>. &middot;
+
+          Served by
+          <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>. &middot;
+
+          Powered by the
+          <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+          {{ if ne .Type "docs" }}
+          <span class="float-right" aria-hidden="true">
+            <a href="#" id="back_to_top">
+              <span class="button_icon">
+                <i class="fas fa-chevron-up fa-2x"></i>
+              </span>
+            </a>
+          </span>
+          {{ end }}
+        </div>
+      </div>
+  </div> <!-- class container -->
+</footer>
+
+
+
+<!-- Original footer
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
     {{ with site.GetPage "privacy.md" }}
@@ -38,5 +84,5 @@
     {{ end }}
   </p>
 </footer>
-
+-->
 </div> <!--  ends id=#THECONTENT from navbar.html; see footer.css -->

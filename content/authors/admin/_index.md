@@ -14,7 +14,7 @@ role: Graduate Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Tübingen
+- name: University of Tübingen
   url: "https://uni-tuebingen.de/"
 - name: Max Planck Institute for Intelligent Systems
   url: "https://www.is.mpg.de/de"
