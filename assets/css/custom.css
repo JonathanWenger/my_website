@@ -21,8 +21,17 @@ h1 {
     padding: 50px 0;
 }
 
-/* Citation Popup */
+/* Citation popup */
 .modal-dialog {
     max-width: 750px;
     margin: 1.75rem auto;
+}
+
+/* Background images */
+section#about.home-section.wg-about {
+	background-image: url(../img/backgrounds/notes.png);
+}
+
+section#talks.home-section.wg-pages {
+	background-image: url(../img/backgrounds/whiteboard.png);
 }
