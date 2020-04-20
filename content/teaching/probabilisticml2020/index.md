@@ -9,7 +9,7 @@ date: 2020-04-01
 tags: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&_flowExecutionKey=e1s8"
+external_link: "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&_flowExecutionKey=e3s1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,11 +27,11 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
+# Optional filename of your slides within your lecture's folder or a URL.
 # url_slides:
 # url_code:
 # url_pdf:
-# url_video:
+url_video: "https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
