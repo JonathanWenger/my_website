@@ -9,7 +9,7 @@ date: 2020-04-01
 tags: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&_flowExecutionKey=e3s1"
+external_link: "https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37144&periodId=223&navigationPosition=studiesOffered,searchCourses"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
