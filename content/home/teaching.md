@@ -8,13 +8,13 @@ active = true  # Activate this widget? true/false
 weight = 46  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = ""
+subtitle = "Classes and Tutorials"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "teaching"
 
-  # Choose how much pages you would like to display (0 = all pages)
+  # Choose how many pages you would like to display (0 = all pages)
   count = 3
 
   # Choose how many pages you would like to offset by

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Recent Preprints and Papers"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

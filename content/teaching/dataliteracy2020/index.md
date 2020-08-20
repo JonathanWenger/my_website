@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tutorial: Probabilistic Machine Learning SS2020"
+title: "Tutorial: Data Literacy WS2020/21"
 location:
 summary:
 authors: [admin]
-date: 2020-04-01
+date: 2020-08-01
 tags: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/"
+external_link: "https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=15241&periodId=231&navigationPosition=studiesOffered,searchCourses"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,11 +27,11 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your lecture's folder or a URL.
+# Optional filename of your slides within your talk's folder or a URL.
 # url_slides:
 # url_code:
 # url_pdf:
-url_video: "https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd"
+# url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
