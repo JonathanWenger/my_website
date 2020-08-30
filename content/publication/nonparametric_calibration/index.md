@@ -43,7 +43,7 @@ url_code: https://github.com/JonathanWenger/pycalib
 # url_project:
 # url_slides: nonparametric_calibration_talk.pdf
 # url_source:
-# url_video:
+url_video: https://slideslive.com/38929965/nonparametric-calibration-for-classification
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
