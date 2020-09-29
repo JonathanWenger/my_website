@@ -30,11 +30,9 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Proceedings
+   url: http://proceedings.mlr.press/v108/wenger20a.html
 
 url_pdf: https://arxiv.org/pdf/1906.04933.pdf
 url_code: https://github.com/JonathanWenger/pycalib
