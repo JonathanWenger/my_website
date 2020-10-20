@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Software, Tech Reports, etc."
 
 [content]
   # Page type to display. E.g. project.

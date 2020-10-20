@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Probabilistic Linear Solvers for Machine Learning"
-authors: ["admin", "Rudolph Triebel", "Hedvig Kjellström"]
+authors: ["admin", "Philipp Hennig"]
 date: 2020-10-20T16:55:42+02:00
 doi: ""
 
@@ -16,40 +16,38 @@ publishDate: 2020-10-20T06:11:48+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: ""
+publication: "Advances in Neural Information Processing Systems"
+publication_short: "NeurIPS"
 
-abstract: "Many applications for classification methods not only require high accuracy but also reliable estimation of predictive uncertainty. However, while many current classification frameworks, in particular deep neural network architectures, provide very good results in terms of accuracy, they tend to underestimate their predictive uncertainty. In this paper, we propose a method that corrects the confidence output of a general classifier such that it approaches the true probability of classifying correctly. This classifier calibration is, in contrast to existing approaches, based on a non-parametric representation using a latent Gaussian process and specifically designed for multi-class classification. It can be applied to any classification method that outputs confidence estimates and is not limited to neural networks. We also provide a theoretical analysis regarding the over- and underconfidence of a classifier and its relationship to calibration. In experiments we show the universally strong performance of our method across different classifiers and benchmark data sets in contrast to existing classifier calibration techniques."
+abstract: "Linear systems are the bedrock of virtually all numerical computation. Machine learning poses specific challenges for the solution of such systems due to their scale, characteristic structure, stochasticity and the central role of uncertainty in the field. Unifying earlier work we propose a class of probabilistic linear solvers which jointly infer the matrix, its inverse and the solution from matrix-vector product observations. This class emerges from a fundamental set of desiderata which constrains the space of possible algorithms and recovers the method of conjugate gradients under certain conditions. We demonstrate how to incorporate prior spectral information in order to calibrate uncertainty and experimentally showcase the potential of such solvers for machine learning."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["gaussian-processes", "non-parametric", "classification"]
+tags: ["probabilistic-numerics", "linear-algebra", "machine-learning"]
 categories: []
 featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Proceedings
+   url: todo
 
-url_pdf: https://arxiv.org/pdf/1906.04933.pdf
-url_code: https://github.com/JonathanWenger/pycalib
+url_pdf: https://arxiv.org/pdf/2010.09691.pdf
+url_code: https://github.com/JonathanWenger/probabilistic-linear-solvers-for-ml
 # url_dataset:
 # url_poster:
 # url_project:
-url_slides: nonparametric_calibration_talk.pdf
+url_slides: probabilistic_linear_solvers.pdf
 # url_source:
-# url_video:
+url_video: https://www.youtube.com/watch?v=3_1JE91g_3E&list=PL05umP7R6ij0pTCyaKny5V4iBs3739f4z&index=6
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Multi-class calibration using a latent Gaussian process."
+  caption: "Structured kernel matrix."
   focal_point: ""
   preview_only: false
 

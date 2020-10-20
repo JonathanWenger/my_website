@@ -1,4 +1,6 @@
-# SITE SETUP
+############################
+## SITE SETUP             ##
+############################
 # Documentation: https://sourcethemes.com/academic/
 
 # Color theme.
@@ -22,12 +24,12 @@ twitter = "JonathanWenger5"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "logo_white.png"
+logo = "logo_white.svg"
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r", "python", "julia", "cpp"] # Add support for highlighting additional languages
+highlight_languages = ["r", "python", "julia", "cpp", "tex"] # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -58,12 +60,16 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jonathan.wenger@uni-tuebingen.de"
+# email = "test@example.org"
+email1 = "jonathan.wenger" # using cryptedmail
+email2 = "uni-tuebingen" # using cryptedmail
+email3 = "de" # using cryptedmail
 phone = ""
-address = "Maria von Linden Str. 6<br>Universität Tübingen<br>72076 Tübingen<br>Germany"
+address = "University of Tübingen<br><b>AI Research Building<br></b>Maria-von-Linden-Str. 6<br>72076 Tübingen / Germany"
+
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ""
+office_hours = "Office hours by appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -97,7 +103,16 @@ map = 2
 map_api_key = ""
 latitude = "48.539027"
 longitude = "9.055722"
-zoom = 15
+zoom = 14
+
+###########################
+## Footer                ##
+###########################
+
+footmark = "layout/gpfooter.png"
+# unilogo = "uni_tuebingen_logo_white.svg"
+footertext = "<b><a href='https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/start/' target='_blank' rel='noopener'>University of Tübingen</a></b><br>Department of Computer Science<br>Methods of Machine Learning"
+personallogo = "logo_white.svg"
 
 ############################
 ## Plugins                ##
@@ -106,7 +121,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+plugins_css = ["custom", "cryptedmail", "footer"]
 plugins_js  = []
 
 ############################
@@ -148,6 +163,17 @@ sharing = true
   post_view = 2
   publication_view = 2
   talk_view = 2
+
+# # Configuration of teaching pages.
+# [teaching]
+#   # Views for associated content.
+#   #   1: List
+#   #   2: Compact
+#   #   3: Card
+#   #   4: Citation (publications only)
+#   post_view = 2
+#   publication_view = 2
+#   talk_view = 2
 
 # Comments.
 [comments]

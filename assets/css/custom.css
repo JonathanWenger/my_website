@@ -1,0 +1,43 @@
+/* Menu */
+
+.dropdown-menu, nav#navbar-main li.nav-item {
+	font-size: 1rem; /* font size menu */
+}
+
+/* Logo menu bar */
+.navbar-brand img {
+	max-height: 45px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/* Headers */
+h1 {
+    font-size: 2rem;
+}
+
+/* Home Panels */
+.home-section {
+    padding: 50px 0;
+}
+
+/* Citation popup */
+.modal-dialog {
+    max-width: 750px;
+    margin: 1.75rem auto;
+}
+
+/* Background images */
+section#about.home-section.wg-about {
+	background-image: url(../img/backgrounds/notes.png);
+}
+
+section#talks.home-section.wg-pages {
+	background-image: url(../img/backgrounds/whiteboard.png);
+}
+
+
+/* Education List */
+.ul-edu.fa-ul {
+	margin-left: .5em;
+}

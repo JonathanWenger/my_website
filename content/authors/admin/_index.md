@@ -14,30 +14,33 @@ role: Graduate Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Tübingen
+- name: University of Tübingen
   url: "https://uni-tuebingen.de/"
 - name: Max Planck Institute for Intelligent Systems
   url: "https://www.is.mpg.de/de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include probabilistic numerics, uncertainty estimation in classification and Gaussian processes.
+bio: My research interests include probabilistic numerics, uncertainty estimation and non-parametric methods.
 
 interests:
-- Probabilistic numerics
-- Uncertainty estimation
-- Non-parametric statistics
+- Probabilistic Numerics
+- Uncertainty Estimation
+- Non-parametric Statistics
 
 education:
   courses:
   - course: Doctoral Degree in Computer Science
-    institution: Universität Tübingen, MPI for Intelligent Systems
+    institution: University of Tübingen, IMPRS-IS fellow
     year:
+    logo: "institution_logos/uni_tuebingen_logo.png"
   - course: MSc in Engineering Physics
-    institution: Kungliga Tekniska högskolan
+    institution: KTH Royal Institute of Technology
     year: 2019
+    logo: "institution_logos/kth_logo.png"
   - course: MSc in Mathematics
     institution: TU München
     year: 2019
+    logo: "institution_logos/tum_logo.png"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,18 +50,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JonathanWenger5
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=de&authuser=1&user=nvffZvIAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2261-1331
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/cs?searchtype=author&query=Wenger%2C+J
 - icon: github
   icon_pack: fab
   link: https://github.com/JonathanWenger
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/JonathanWenger5
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,8 +82,8 @@ email: ""
 #- Visitors
 ---
 
-I am a graduate student in computer science at Universität Tübingen and the MPI for Intelligent Systems working with [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research interests include [**probabilistic numerics**](http://probabilistic-numerics.org/), **uncertainty estimation** in classification and **non-parametric clustering** of transcriptomic time-series.
+I am a graduate student in computer science at the University of Tübingen and the MPI for Intelligent Systems advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focuses on [**probabilistic numerics**](http://probabilistic-numerics.org/) which aims to quantify uncertainty induced by finite computation by interpreting numerical methods as inference problems.
 
-During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TU München and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH in Stockholm. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute.
+During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TUM and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH on probability calibration. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute developing clustering approaches to transcriptomic time-series.
 
 In my free time I love to do sports, in particular any kind of cycling.
