@@ -24,8 +24,8 @@ bio: My research interests include probabilistic numerics, uncertainty estimatio
 
 interests:
 - Probabilistic Numerics
+- Numerical Analysis
 - Uncertainty Estimation
-- Non-parametric Statistics
 
 education:
   courses:
