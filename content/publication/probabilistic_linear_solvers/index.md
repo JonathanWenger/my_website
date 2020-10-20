@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Non-Parametric Calibration for Classification"
+title: "Probabilistic Linear Solvers for Machine Learning"
 authors: ["admin", "Rudolph Triebel", "Hedvig Kjellström"]
-date: 2019-06-12T16:44:42+02:00
+date: 2020-10-20T16:55:42+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-08-29T06:11:48+02:00
+publishDate: 2020-10-20T06:11:48+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
