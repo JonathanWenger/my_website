@@ -41,7 +41,7 @@ url_code: https://github.com/JonathanWenger/probabilistic-linear-solvers-for-ml
 # url_project:
 url_slides: probabilistic_linear_solvers_talk.pdf
 # url_source:
-url_video: https://www.youtube.com/watch?v=3_1JE91g_3E&list=PL05umP7R6ij0pTCyaKny5V4iBs3739f4z&index=6
+url_video: https://youtu.be/3_1JE91g_3E
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
