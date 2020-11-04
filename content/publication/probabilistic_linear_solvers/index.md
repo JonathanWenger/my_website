@@ -31,6 +31,8 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2010.09691
  - name: Proceedings
    url: https://papers.nips.cc/
 

@@ -31,6 +31,8 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+ - name: arXiv
+   url: https://arxiv.org/abs/1906.04933
  - name: Proceedings
    url: http://proceedings.mlr.press/v108/wenger20a.html
 
