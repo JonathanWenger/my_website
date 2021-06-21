@@ -21,9 +21,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-- name: Documentation
-  url: "https://probnum.readthedocs.io"
+links:
+  - name: Documentation
+    url: https://probnum.readthedocs.io
 
 url_code: "https://github.com/probabilistic-numerics/probnum"
 # url_pdf: ""
