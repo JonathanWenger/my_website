@@ -9,7 +9,7 @@ date: 2020-04-01
 tags: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/"
+external_link: "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

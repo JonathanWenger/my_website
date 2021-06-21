@@ -9,7 +9,7 @@ date: 2021-04-01
 tags: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/probabilistic-machine-learning/"
+external_link: "https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37144&periodId=224&navigationPosition=studiesOffered,searchCourses"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

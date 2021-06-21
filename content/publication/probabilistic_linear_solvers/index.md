@@ -34,7 +34,7 @@ links:
  - name: arXiv
    url: https://arxiv.org/abs/2010.09691
  - name: Proceedings
-   url: https://papers.nips.cc/
+   url: https://papers.nips.cc/paper/2020/hash/4afd521d77158e02aed37e2274b90c9c-Abstract.html
 
 url_pdf: https://arxiv.org/pdf/2010.09691.pdf
 url_code: https://github.com/JonathanWenger/probabilistic-linear-solvers-for-ml
