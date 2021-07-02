@@ -3,11 +3,11 @@
 
 title: "Reducing the Variance of Gaussian Process Hyperparameter Optimization with Preconditioning"
 authors: ["admin", "Geoff Pleiss", "Philipp Hennig", "John P. Cunningham", "Jacob R. Gardner"]
-date: 2021-12-01T10:00:00+02:00
+date: 2021-07-01T10:00:00+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-14T06:00:00+02:00
+publishDate: 2021-07-01T06:00:00+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,13 +30,13 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: arXiv
-#    url: 
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2107.00243 
 #  - name: Proceedings
 #    url:
 
-# url_pdf: https://arxiv.org/pdf/1906.04933.pdf
+url_pdf: https://arxiv.org/pdf/2107.00243.pdf
 url_code: https://github.com/cornellius-gp/gpytorch
 # url_dataset:
 # url_poster:

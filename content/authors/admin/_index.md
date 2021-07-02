@@ -20,7 +20,7 @@ organizations:
   url: "https://www.is.mpg.de/de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include probabilistic numerics, uncertainty estimation and non-parametric methods.
+bio: My research interests include probabilistic numerics, numerical analysis and Gaussian processes.
 
 interests:
 - Probabilistic Numerics
