@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ProbNum: Probabilistic Numerics"
+title: "ProbNum: Probabilistic Numerics in Python"
 authors: ["admin", "Nicholas Krämer", "Marvin Pförtner", "Jonathan Schmidt", "Nathanael Bosch", "Nina Effenberger", "Johannes Zenn", "Alexandra Gessner", "Toni Karvonen", "François-Xavier Briol", "Maren Mahsereci", "Philipp Hennig"]
 date: 2021-12-01T10:00:00+02:00
 doi: ""
