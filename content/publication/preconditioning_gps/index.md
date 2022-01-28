@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Reducing the Variance of Gaussian Process Hyperparameter Optimization with Preconditioning"
+title: "Preconditioning for Scalable Gaussian Process Hyperparameter Optimization"
 authors: ["admin", "Geoff Pleiss", "Philipp Hennig", "John P. Cunningham", "Jacob R. Gardner"]
 date: 2021-07-01T10:00:00+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-01T06:00:00+02:00
+publishDate: 2022-01-28T06:00:00+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Gaussian processes remain popular as a flexible and expressive model class, but the computational cost of kernel hyperparameter optimization stands as a major limiting factor to their scaling and broader adoption. Recent work has made great strides combining stochastic estimation with iterative numerical techniques, essentially boiling down GP inference to the cost of (many) matrix-vector multiplies. Preconditioning -- a highly effective step for any iterative method involving matrix-vector multiplication -- can be used to accelerate convergence and thus reduce bias in hyperparameter optimization. Here, we prove that preconditioning has an additional benefit that has been previously unexplored. It not only reduces the bias of the $\\log$-marginal likelihood estimator and its derivatives, but it also simultaneously can reduce variance at essentially negligible cost. We leverage this result to derive sample-efficient algorithms for GP hyperparameter optimization requiring as few as $\\mathcal{O}(\\log(\\varepsilon^{-1}))$ instead of $\\mathcal{O}(\\varepsilon^{-2})$ samples to achieve error $\\varepsilon$. Our theoretical results enable provably efficient and scalable optimization of kernel hyperparameters, which we validate empirically on a set of large-scale benchmark problems. There, variance reduction via preconditioning results in an order of magnitude speedup in hyperparameter optimization of exact GPs."
+abstract: "Gaussian process hyperparameter optimization requires linear solves with, and log-determinants of, large kernel matrices. Iterative numerical techniques are becoming popular to scale to larger datasets, relying on the conjugate gradient method (CG) for the linear solves and stochastic trace estimation for the log-determinant. This work introduces new algorithmic and theoretical insights for preconditioning these computations. While preconditioning is well understood in the context of CG, we demonstrate that it can also accelerate convergence and reduce variance of the estimates for the log-determinant and its derivative. We prove general probabilistic error bounds for the preconditioned computation of the log-determinant, log-marginal likelihood and its derivatives. Additionally, we derive specific rates for a range of kernel-preconditioner combinations, showing that up to exponential convergence can be achieved. Our theoretical results enable provably efficient optimization of kernel hyperparameters, which we validate empirically on large-scale benchmark problems. There our approach accelerates training by up to an order of magnitude."
 
 # Summary. An optional shortened abstract.
 summary: ""
