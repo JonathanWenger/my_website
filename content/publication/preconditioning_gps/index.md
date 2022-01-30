@@ -3,7 +3,7 @@
 
 title: "Preconditioning for Scalable Gaussian Process Hyperparameter Optimization"
 authors: ["admin", "Geoff Pleiss", "Philipp Hennig", "John P. Cunningham", "Jacob R. Gardner"]
-date: 2021-07-01T10:00:00+02:00
+date: 2022-01-28T10:00:00+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -49,7 +49,7 @@ url_code: https://github.com/cornellius-gp/gpytorch
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Bias and variance reduction in the log-marginal likelihood and its derivatives via preconditioning."
+  caption: "Preconditioning reduces bias and variance in the stochastic approximations of the log-marginal likelihood and its derivatives."
   focal_point: ""
   preview_only: false
 
