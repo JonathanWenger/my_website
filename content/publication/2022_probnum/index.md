@@ -16,8 +16,8 @@ publishDate: 2021-012-01T06:00:00+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv preprint"
+publication_short: "arXiv preprint"
 
 abstract: "Probabilistic numerical methods (PNMs) solve numerical problems via
 probabilistic inference. They have been developed for linear algebra,
