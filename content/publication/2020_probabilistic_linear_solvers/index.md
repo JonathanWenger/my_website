@@ -39,9 +39,9 @@ links:
 url_pdf: https://arxiv.org/pdf/2010.09691.pdf
 url_code: https://github.com/JonathanWenger/probabilistic-linear-solvers-for-ml
 # url_dataset:
-# url_poster:
+url_poster: poster.pdf
 # url_project:
-url_slides: probabilistic_linear_solvers_talk.pdf
+url_slides: talk.pdf
 # url_source:
 url_video: https://youtu.be/3_1JE91g_3E
 

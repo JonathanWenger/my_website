@@ -33,15 +33,15 @@ featured: true
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2107.00243 
-#  - name: Proceedings
-#    url:
+- name: Proceedings
+  url: https://proceedings.mlr.press/v162/wenger22a.html
 
 url_pdf: https://arxiv.org/pdf/2107.00243.pdf
 url_code: https://github.com/cornellius-gp/gpytorch
 # url_dataset:
-# url_poster:
+url_poster: poster.pdf
 # url_project:
-# url_slides: 
+url_slides: talk.pdf
 # url_source:
 # url_video: 
 
