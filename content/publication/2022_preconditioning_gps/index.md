@@ -43,7 +43,7 @@ url_poster: poster.pdf
 # url_project:
 url_slides: talk.pdf
 # url_source:
-# url_video: 
+url_video: https://slideslive.com/38983179
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -44,7 +44,7 @@ image:
 url_slides: talk.pdf
 url_code: https://github.com/cornellius-gp/gpytorch
 # url_pdf:
-# url_video:
+url_video: https://slideslive.com/38983179
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
