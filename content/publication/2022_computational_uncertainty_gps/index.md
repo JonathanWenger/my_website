@@ -43,7 +43,7 @@ url_code: https://github.com/JonathanWenger/itergp
 # url_project:
 # url_slides: 
 # url_source:
-# url_video: 
+url_video: https://youtu.be/xsXifiz2Zfo
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
