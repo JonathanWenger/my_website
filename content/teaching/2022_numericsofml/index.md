@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lecture: Numerics of Machine Learning"
+title: "Lecture: Numerics of Machine Learning WS2022/23"
 location:
 summary:
 authors: [admin]
