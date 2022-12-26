@@ -24,7 +24,7 @@ abstract: "Linear systems are the bedrock of virtually all numerical computation
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["probabilistic-numerics", "linear-algebra", "machine-learning"]
+tags: ["probabilistic numerics", "linear algebra", "machine learning"]
 categories: []
 featured: true
 

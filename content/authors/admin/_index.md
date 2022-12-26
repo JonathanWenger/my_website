@@ -16,8 +16,6 @@ role: Graduate Student in Computer Science
 organizations:
 - name: University of Tübingen
   url: "https://uni-tuebingen.de/"
-- name: Max Planck Institute for Intelligent Systems
-  url: "https://www.is.mpg.de/de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include probabilistic numerics, numerical analysis and Gaussian processes.
@@ -82,7 +80,7 @@ email: ""
 #- Visitors
 ---
 
-I am a doctoral student in computer science at the University of Tübingen and the MPI for Intelligent Systems advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focuses on **numerical methods for machine learning**, in particular [**probabilistic numerics**](http://probabilistic-numerics.org/) which interprets numerical methods as learning procedures. Currently I am visiting [Columbia University's Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) in New York working with [John P. Cunningham](https://stat.columbia.edu/~cunningham/).
+I am a doctoral student in computer science at the University of Tübingen and an IMPRS-IS fellow advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focuses on **numerical methods for machine learning**, in particular [**probabilistic numerics**](http://probabilistic-numerics.org/) which interprets numerical methods as learning procedures. I am also closely collaborating with [John P. Cunningham](https://stat.columbia.edu/~cunningham/) at [Columbia University's Zuckerman Institute](https://zuckermaninstitute.columbia.edu/).
 
 <!-- During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TUM and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH on probability calibration. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute developing clustering approaches to transcriptomic time-series. -->
 
