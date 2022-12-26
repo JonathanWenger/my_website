@@ -11,12 +11,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-07-19T14:00:00-04:00
+date: 2023-03-02T16:45:00+01:00
 # date_end: 2019-10-30T15:45:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-10-20T16:32:09+02:00
+publishDate: 2022-10-20T16:32:09+01:00
 
 authors: [admin]
 tags: ["gaussian processes", "numerical analysis", "machine learning"]
