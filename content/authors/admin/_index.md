@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Computer Science
+role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Tübingen
-  url: "https://uni-tuebingen.de/"
+- name: Columbia University
+  url: "https://www.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include probabilistic numerics, numerical analysis and Gaussian processes.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Doctoral Degree in Computer Science
     institution: University of Tübingen, IMPRS-IS fellow
-    year:
+    year: 2023
     logo: "institution_logos/uni_tuebingen_logo.png"
   - course: MSc in Engineering Physics
     institution: KTH Royal Institute of Technology
@@ -80,8 +80,4 @@ email: ""
 #- Visitors
 ---
 
-I am a doctoral student in computer science at the University of Tübingen and an IMPRS-IS fellow advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). My research focuses on **numerical methods for machine learning**, in particular [**probabilistic numerics**](http://probabilistic-numerics.org/) which interprets numerical methods as learning procedures. I am also closely collaborating with [John P. Cunningham](https://stat.columbia.edu/~cunningham/) at [Columbia University's Zuckerman Institute](https://zuckermaninstitute.columbia.edu/).
-
-<!-- During my master degrees I worked with [Rudolph Triebel](https://vision.in.tum.de/members/triebel) at TUM and [Hedvig Kjellström](https://www.kth.se/profile/hedvig) at KTH on probability calibration. I also got to spend ten months as a visiting graduate student in the group of [Nir Hacohen](https://www.broadinstitute.org/bios/nir-hacohen) at the Broad Institute developing clustering approaches to transcriptomic time-series. -->
-
-In my free time I love to do sports, in particular any kind of cycling.
+I am a postdoctoral research scientist at [Columbia University's Zuckerman Institute](https://zuckermaninstitute.columbia.edu/) working with [John P. Cunningham](https://stat.columbia.edu/~cunningham/). My research focuses on **numerical methods for machine learning**, in particular [**probabilistic numerics**](http://probabilistic-numerics.org/) which interprets numerical methods as learning procedures. Previously I was a doctoral student in computer science at the University of Tübingen and an IMPRS-IS fellow advised by [Philipp Hennig](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/personen/philipp-hennig/). 
