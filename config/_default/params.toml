@@ -65,8 +65,7 @@ email1 = "jw4246" # using cryptedmail
 email2 = "columbia" # using cryptedmail
 email3 = "edu" # using cryptedmail
 phone = ""
-address = "University of Tübingen<br><b>AI Research Building<br></b>Maria-von-Linden-Str. 6<br>72076 Tübingen / Germany"
-
+address = "Columbia University<br><i>Zuckerman Institute</i><br>3227 Broadway<br>New York, NY 10027"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = "Office hours by appointment"
@@ -101,8 +100,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "48.539027"
-longitude = "9.055722"
+latitude = "40.81731793594163"
+longitude = "-73.95692803179367"
 zoom = 14
 
 ###########################
@@ -110,8 +109,8 @@ zoom = 14
 ###########################
 
 footmark = "layout/gpfooter.png"
-# unilogo = "uni_tuebingen_logo_white.svg"
-footertext = "<b><a href='https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/methods-of-machine-learning/start/' target='_blank' rel='noopener'>University of Tübingen</a></b><br>Department of Computer Science<br>Methods of Machine Learning"
+# unilogo = ""
+footertext = ""
 personallogo = "logo_white.svg"
 
 ############################
