@@ -1,23 +1,23 @@
 /* Color variables: match color_theme in params.toml and /data/themes */
 
-:root{
+:root {
   /* Primary */
-  --primary : #a51e37;
-  --primary_light : #a51e37;
-  --primary_dark : #32414b;
+  --primary: #1D4F91;
+  --primary_light: #1D4F91;
+  --primary_dark: #32414b;
 
   /* Menu */
-  --menu_primary : #a51e37;
-  --menu_text : #f2f2f2;
-  --menu_text_active : #b4a069;
-  --menu_title : #f2f2f2;
+  --menu_primary: #1D4F91;
+  --menu_text: #f2f2f2;
+  --menu_text_active: #B9D9EB;
+  --menu_title: #f2f2f2;
 
   /* Footer */
-  --footer_text : #ffffffa1;
+  --footer_text: #ffffffa1;
 
   /* Home sections */
-  --home_section_odd : #ffffff;
-  --home_section_even : #f2f2f2;
+  --home_section_odd: #ffffff;
+  --home_section_even: #f2f2f2;
 }
 
 /*  FOOTER BAR  */
@@ -29,7 +29,7 @@ footer {
   padding: 32px 0;
 }
 
-#botbar1{
+#botbar1 {
   background-color: var(--menu_text_active);
 
   width: 100%;
@@ -51,6 +51,7 @@ body {
 div.pub {
   background-color: var(--home_section_odd);
 }
+
 article {
   background-color: var(--home_section_odd);
 }
@@ -76,13 +77,14 @@ footer a#back_to_top i {
 footer a:link {
   color: var(--menu_text_active);
 }
+
 footer a:visited {
   color: var(--menu_text_active);
 }
 
 /*  FOOTER 3 Column  */
 
-#footer-columns{
+#footer-columns {
   margin-top: 0rem;
   padding-top: 15px;
   margin-right: 20px;
@@ -91,7 +93,7 @@ footer a:visited {
   padding-bottom: 25px;
 }
 
-#footer-columns img{
+#footer-columns img {
   max-width: 125px;
   opacity: .5;
   padding-top: 5px;
