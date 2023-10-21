@@ -5,13 +5,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "uni_tuebingen"
+color_theme = "columbia"
 # Enable users to switch between day and night mode?
 day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "uni_tuebingen"
+font = "columbia"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
