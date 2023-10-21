@@ -61,9 +61,9 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 # email = "test@example.org"
-email1 = "jonathan.wenger" # using cryptedmail
-email2 = "uni-tuebingen" # using cryptedmail
-email3 = "de" # using cryptedmail
+email1 = "jw4246" # using cryptedmail
+email2 = "columbia" # using cryptedmail
+email3 = "edu" # using cryptedmail
 phone = ""
 address = "University of Tübingen<br><b>AI Research Building<br></b>Maria-von-Linden-Str. 6<br>72076 Tübingen / Germany"
 
