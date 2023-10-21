@@ -3,11 +3,11 @@
 
 title: "On the Disconnect Between Theory and Practice of Overparametrized Neural Networks"
 authors: ["admin", "Felix Dangel", "Agustinus Kristiadi"]
-date: 2023-20-01T10:00:00+02:00
+date: 2023-09-01T10:00:00+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-01T06:00:00+02:00
+publishDate: 2023-09-01T06:00:00+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
