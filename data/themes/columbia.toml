@@ -1,0 +1,21 @@
+# Theme metadata
+name = "columbia"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1D4F91" #links
+primary_light = "#1D4F91"
+primary_dark = "#32414b"
+
+# Menu
+menu_primary = "#1D4F91"
+menu_text = "#f2f2f2"
+menu_text_active = "#b4a069"
+menu_title = "#f2f2f2"
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#f2f2f2"
+
