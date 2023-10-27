@@ -38,6 +38,11 @@ section#talks.home-section.wg-pages {
 	background-image: url(../img/backgrounds/whiteboard.png);
 }
 
+/* Publications */
+.li-cite-author {
+	font-style: italic
+}
+
 /* Detailed List of publications / talks / teaching etc. */
 .universal-wrapper {
 	background-color: var(--home_section_odd);
