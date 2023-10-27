@@ -38,8 +38,12 @@ section#talks.home-section.wg-pages {
 	background-image: url(../img/backgrounds/whiteboard.png);
 }
 
-/* Publications */
-.li-cite-author {
+/* Publications and Projects */
+[itemprop~="author"] {
+	font-style: normal
+}
+
+[itemprop="name"] {
 	font-style: italic
 }
 
