@@ -39,11 +39,11 @@ section#talks.home-section.wg-pages {
 }
 
 /* Publications and Projects */
-.article-metadata[itemprop~="author"] {
+.article-metadata [itemprop~="author"] {
 	font-style: normal
 }
 
-.article-metadata[itemprop="name"] {
+.article-metadata [itemprop="name"] {
 	font-style: italic
 }
 
