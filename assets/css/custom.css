@@ -1,7 +1,9 @@
 /* Menu */
 
-.dropdown-menu, nav#navbar-main li.nav-item {
-	font-size: 1rem; /* font size menu */
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+	font-size: 1rem;
+	/* font size menu */
 }
 
 /* Logo menu bar */
@@ -13,18 +15,18 @@
 
 /* Headers */
 h1 {
-    font-size: 2rem;
+	font-size: 2rem;
 }
 
 /* Home Panels */
 .home-section {
-    padding: 50px 0;
+	padding: 50px 0;
 }
 
 /* Citation popup */
 .modal-dialog {
-    max-width: 750px;
-    margin: 1.75rem auto;
+	max-width: 750px;
+	margin: 1.75rem auto;
 }
 
 /* Background images */
@@ -36,6 +38,10 @@ section#talks.home-section.wg-pages {
 	background-image: url(../img/backgrounds/whiteboard.png);
 }
 
+/* Detailed List of publications / talks / teaching etc. */
+universal-wrapper {
+	background-color: var(--primary_light);
+}
 
 /* Education List */
 .ul-edu.fa-ul {
