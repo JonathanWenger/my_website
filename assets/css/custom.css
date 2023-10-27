@@ -39,7 +39,7 @@ section#talks.home-section.wg-pages {
 }
 
 /* Detailed List of publications / talks / teaching etc. */
-universal-wrapper {
+.universal-wrapper {
 	background-color: var(--primary_light);
 }
 
