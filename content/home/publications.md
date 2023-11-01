@@ -14,7 +14,7 @@ subtitle = "Recent Preprints and Papers"
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
 
-  # Choose how much pages you would like to display (0 = all pages)
+  # Choose how many pages you would like to display (0 = all pages)
   count = 5
 
   # Choose how many pages you would like to offset by

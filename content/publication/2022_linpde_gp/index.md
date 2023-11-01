@@ -37,7 +37,7 @@ links:
 #    url:
 
 url_pdf: https://arxiv.org/pdf/2212.12474.pdf
-# url_code: https://github.com/JonathanWenger/itergp
+url_code: https://github.com/marvinpfoertner/linpde-gp
 # url_dataset:
 # url_poster:
 # url_project:
