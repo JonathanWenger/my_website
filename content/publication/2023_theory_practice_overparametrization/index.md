@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Disconnect Between Theory and Practice of Overparametrized Neural Networks"
+title: "On the Disconnect Between Theory and Practice of Neural Networks: Limits of the NTK Perspective"
 authors: ["admin", "Felix Dangel", "Agustinus Kristiadi"]
 date: 2023-09-01T10:00:00+02:00
 doi: ""
@@ -19,12 +19,12 @@ publication_types: ["3"]
 publication: "arXiv preprint"
 publication_short: "arXiv preprint"
 
-abstract: "The infinite-width limit of neural networks (NNs) has garnered significant attention as a theoretical framework for analyzing the behavior of large-scale, overparametrized networks. By approaching infinite width, NNs effectively converge to a linear model with features characterized by the neural tangent kernel (NTK). This establishes a connection between NNs and kernel methods, the latter of which are well understood. Based on this link, theoretical benefits and algorithmic improvements have been hypothesized and empirically demonstrated in synthetic architectures. These advantages include faster optimization, reliable uncertainty quantification and improved continual learning. However, current results quantifying the rate of convergence to the kernel regime suggest that exploiting these benefits requires architectures that are orders of magnitude wider than they are deep. This assumption raises concerns that practically relevant architectures do not exhibit behavior as predicted via the NTK. In this work, we empirically investigate whether the limiting regime either describes the behavior of large-width architectures used in practice or is informative for algorithmic improvements. Our empirical results demonstrate that this is not the case in optimization, uncertainty quantification or continual learning. This observed disconnect between theory and practice calls into question the practical relevance of the infinite-width limit. "
+abstract: "The neural tangent kernel (NTK) has garnered significant attention as a theoretical framework for describing the behavior of large-scale neural networks. Kernel methods are theoretically well-understood and as a result enjoy algorithmic benefits, which can be demonstrated to hold in wide synthetic neural network architectures. These advantages include faster optimization, reliable uncertainty quantification and improved continual learning. However, current results quantifying the rate of convergence to the kernel regime suggest that exploiting these benefits requires architectures that are orders of magnitude wider than they are deep. This assumption raises concerns that architectures used in practice do not exhibit behaviors as predicted by the NTK. Here, we supplement previous work on the NTK by empirically investigating whether the limiting regime predicts practically relevant behavior of large-width architectures. Our results demonstrate that this is not the case across multiple domains. This observed disconnect between theory and practice further calls into question to what degree NTK theory should inform architectural and algorithmic choices."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["neural tangent kernel", "neural networks", "gaussian processes"]
+tags: ["neural tangent kernel", "neural networks", "deep learning", "continual learning", "gaussian processes"]
 categories: []
 featured: true
 
@@ -49,7 +49,7 @@ url_pdf: https://arxiv.org/pdf/2310.00137.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Infinitely-wide neural networks in theory and their finite-width approximations in practice make learn significantly different functions."
+  caption: "Infinitely-wide neural networks in theory and their finite-width approximations in practice learn significantly different functions."
   focal_point: ""
   preview_only: false
 
