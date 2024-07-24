@@ -16,7 +16,7 @@ publishDate: 2019-08-29T06:11:48+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)"
+publication: "International Conference on Artificial Intelligence and Statistics (AISTATS)"
 publication_short: "AISTATS"
 
 abstract: "Many applications of classification methods not only require high accuracy but also reliable estimation of predictive uncertainty. However, while many current classification frameworks, in particular deep neural networks, achieve high accuracy, they tend to incorrectly estimate uncertainty. In this paper, we propose a method that adjusts the confidence estimates of a general classifier such that they approach the probability of classifying correctly. In contrast to existing approaches, our calibration method employs a non-parametric representation using a latent Gaussian process, and is specifically designed for multi-class classification. It can be applied to any classifier that outputs confidence estimates and is not limited to neural networks. We also provide a theoretical analysis regarding the over- and underconfidence of a classifier and its relationship to calibration, as well as an empirical outlook for calibrated active learning. In experiments we show the universally strong performance of our method across different classifiers and benchmark data sets, in particular for state-of-the art neural network architectures."
