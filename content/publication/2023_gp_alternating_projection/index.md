@@ -3,7 +3,7 @@
 
 title: "Large-Scale Gaussian Processes via Alternating Projection"
 authors: ["Kaiwen Wu", "admin", "Haydn Jones", "Geoff Pleiss", "Jacob R. Gardner"]
-date: 2023-10-26T10:00:00+02:00
+date: 2024-05-02T10:00:00+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: 2023-10-26T06:00:00+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint"
-publication_short: "arXiv preprint"
+publication: "International Conference on Artificial Intelligence and Statistics (AISTATS)"
+publication_short: "AISTATS"
 
 abstract: "Gaussian process (GP) hyperparameter optimization requires repeatedly solving linear systems with n×n kernel matrices. To address the prohibitive O(n^3) time complexity, recent work has employed fast iterative numerical methods, like conjugate gradients (CG). However, as datasets increase in magnitude, the corresponding kernel matrices become increasingly ill-conditioned and still require O(n^2) space without partitioning. Thus, while CG increases the size of datasets GPs can be trained on, modern datasets reach scales beyond its applicability. In this work, we propose an iterative method which only accesses subblocks of the kernel matrix, effectively enabling mini-batching. Our algorithm, based on alternating projection, has O(n) per-iteration time and space complexity, solving many of the practical challenges of scaling GPs to very large datasets. Theoretically, we prove our method enjoys linear convergence and empirically we demonstrate its robustness to ill-conditioning. On large-scale benchmark datasets up to four million datapoints our approach accelerates training by a factor of 2× to 27× compared to CG."
 
