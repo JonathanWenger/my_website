@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Computation-Aware Gaussian Processes: Model Selection And Linear-Time Inference"
-authors: ["admin", "admin", "Kaiwen Wu", "Philipp Hennig", "Jacob R. Gardner", "Geoff Pleiss", "John P. Cunningham"]
+authors: ["admin", "Kaiwen Wu", "Philipp Hennig", "Jacob R. Gardner", "Geoff Pleiss", "John P. Cunningham"]
 date: 2024-12-9T10:00:00+02:00
 doi: ""
 
