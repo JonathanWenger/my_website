@@ -19,10 +19,7 @@ publication_types: ["1"]
 publication: "Advances in Neural Information Processing Systems"
 publication_short: "NeurIPS"
 
-abstract: ""
-
-# Summary. An optional shortened abstract.
-summary: "Model selection in Gaussian processes scales prohibitively with the size of
+abstract: "Model selection in Gaussian processes scales prohibitively with the size of
 the training dataset, both in time and memory. While many approximations exist,
 all incur inevitable approximation error. Recent work accounts for this error
 in the form of computational uncertainty, which enables -- at the cost of
@@ -38,6 +35,9 @@ done within a few hours on a single GPU. As a result of this work, Gaussian
 processes can be trained on large-scale datasets without significantly
 compromising their ability to quantify uncertainty -- a fundamental
 prerequisite for optimal decision-making."
+
+# Summary. An optional shortened abstract.
+summary: ""
 
 tags: ["Gaussian processes", "Variational Inference", "Probabilistic Numerics", "Numerical Analysis"]
 categories: []
