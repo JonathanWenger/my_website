@@ -20,7 +20,7 @@ description = ""
 sharing_image = "logo_black.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "JonathanWenger5"
+twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -29,7 +29,13 @@ logo = "logo_white.svg"
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r", "python", "julia", "cpp", "tex"] # Add support for highlighting additional languages
+highlight_languages = [
+    "r",
+    "python",
+    "julia",
+    "cpp",
+    "tex",
+] # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -47,7 +53,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = { repo_url = "", repo_branch = "master", editable = { docs = true, page = false, post = false } }
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -61,9 +67,9 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 # email = "test@example.org"
-email1 = "jw4246" # using cryptedmail
-email2 = "columbia" # using cryptedmail
-email3 = "edu" # using cryptedmail
+email1 = "jw4246"                                                                                    # using cryptedmail
+email2 = "columbia"                                                                                  # using cryptedmail
+email3 = "edu"                                                                                       # using cryptedmail
 phone = ""
 address = "Columbia University<br><i>Zuckerman Institute</i><br>3227 Broadway<br>New York, NY 10027"
 
@@ -76,12 +82,12 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "JonathanWenger5", link = "https://twitter.com/JonathanWenger5"},
- # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
- # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
- # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+    #  {icon = "twitter", icon_pack = "fab", name = "JonathanWenger5", link = "https://twitter.com/JonathanWenger5"},
+    # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+    # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+    # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+    # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -121,7 +127,7 @@ personallogo = "logo_white.svg"
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_css = ["custom", "cryptedmail", "footer"]
-plugins_js  = []
+plugins_js = []
 
 ############################
 ## Advanced options       ##
@@ -138,30 +144,30 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = true # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
 # Configuration of publication pages.
 [publications]
-  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+# Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+date_format = "January 2006"
 
-  # Citation style ("apa" or "mla")
-  citation_style = "apa"
+# Citation style ("apa" or "mla")
+citation_style = "apa"
 
 # Configuration of project pages.
 [projects]
-  # Views for associated content.
-  #   1: List
-  #   2: Compact
-  #   3: Card
-  #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+# Views for associated content.
+#   1: List
+#   2: Compact
+#   3: Card
+#   4: Citation (publications only)
+post_view = 2
+publication_view = 2
+talk_view = 2
 
 # # Configuration of teaching pages.
 # [teaching]
@@ -176,32 +182,32 @@ sharing = true
 
 # Comments.
 [comments]
-  # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  engine = 0
+# Comment provider:
+#   0: Disabled
+#   1: Disqus (https://disqus.com)
+#   2: Commento (https://commento.io)
+engine = 0
 
-  # Which page types are commentable?
-  commentable = {page = false, post = true, docs = true, project = false, publication = false, talk = false}
+# Which page types are commentable?
+commentable = { page = false, post = true, docs = true, project = false, publication = false, talk = false }
 
-  # Configuration of Disqus.
-  [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+# Configuration of Disqus.
+[comments.disqus]
+shortname = ""    # Paste the shortname from your Disqus dashboard.
+show_count = true # Show comment count in page header? (true/false)
 
 # Search.
 [search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+# Search provider:
+#   0: No search engine
+#   1: Academic (built-in)
+#   2: Algolia (https://www.algolia.com)
+engine = 1
 
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+# Configuration of Algolia search engine.
+# Paste the values from your Algolia dashboard.
+[search.algolia]
+app_id = ""
+api_key = ""
+index_name = ""
+show_logo = false
